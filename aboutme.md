@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+# Summary
 
 My name is Grant Matthews. I have the following qualities:
 
@@ -19,7 +20,9 @@ What else do you need?
 - Experienced using Eclipse IDE, Android Studio, vim, and GitHub
 - Development experience on Microsoft Windows, Unix/Linux, and Mac OS
 
-## Work Experience
+You can see some of my personal projects [here.](http://grantmatthews.me/)
+
+## <i class="fa fa-briefcase" aria-hidden="true"></i> Work Experience
 ### Software Engineering Intern - HITS Scanning Solutions (Summer 2017)
 - Software Engineering Intern
 - Programmed tools for manipulating TIFF image files without decompression using Java 
