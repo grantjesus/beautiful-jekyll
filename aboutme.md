@@ -22,7 +22,6 @@ You can see some of my personal projects [here.](http://grantmatthews.me/)
 
 # <i class="fa fa-briefcase" aria-hidden="true"></i> Work Experience
 ### HITS Scanning Solutions (Summer 2017)
-- Software Engineering Intern
 - Programmed tools for manipulating TIFF image files without decompression using Java 
 - Developed 'tag and match' program for cross-referencing medical records against SQL databases  
 - Designed and implemented intuitive user interfaces in Swing
