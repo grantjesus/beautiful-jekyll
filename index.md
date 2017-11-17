@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Personal Projects
-subtitle: This is where I will tell my friends way too much about me
+title: 
+subtitle: May Grant be with you
 use-site-title: true
 bigimg: "img/lastsupper.jpg"
 ---
