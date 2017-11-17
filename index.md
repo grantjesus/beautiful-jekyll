@@ -66,6 +66,9 @@ bigimg: "img/lastsupper.jpg"
         <p class="text-muted">
         Location-based anonymous messaging app
         </p>
+	<p class="text-muted">
+	HackDFW Participant
+        </p>
       </a>
     </div>
   </div>
